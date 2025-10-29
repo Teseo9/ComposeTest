@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_main">#FFAA2F2F</color>
+
+    <color name="colorAccent">#6200EE</color>
+    <color name="colorAccentDark">#4641D9</color>
+    <color name="colorIconBG">#AA2F2F</color>
+    <color name="colorBottomText">#6200EE</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="colorBlack">#FF000000</color>
+    <color name="colorWhite">#FFFFFFFF</color>
+
+    <color name="colorEAEAEA">#EAEAEA</color>
+    <color name="colorBDBDBD">#BDBDBD</color>
+    <color name="color8C8C8C">#8C8C8C</color>
+    <color name="color747474">#747474</color>
+    <color name="colorF2F2F2">#F2F2F2</color>
+
+    <!-- Calendar Color : White -->
+    <color name="colorLunar">#747474</color>
+    <color name="colorHoliday">#CC3D3D</color>
+    <color name="colorHoliday_deactive">#FFA7A7</color>
+    <color name="colorSaturday">#4374D9</color>
+    <color name="colorSaturday_deactive">#B2CCFF</color>
+
+    <color name="colorNormal">#272727</color>
+    <color name="colorNormal_deactive">#BDBDBD</color>
+    <color name="colorSelector">#4641D9</color>
+
+    <!-- Calendar Color : Black -->
+    <color name="colorLunar_black">#EAEAEA</color>
+    <color name="colorHoliday_black">#CC3D3D</color>
+    <color name="colorHoliday_deactive_black">#FFA7A7</color>
+    <color name="colorSaturday_black">#4374D9</color>
+    <color name="colorSaturday_deactive_black">#B2CCFF</color>
+
+    <color name="colorNormal_black">#FCFCFC</color>
+    <color name="colorNormal_deactive_black">#BDBDBD</color>
+    <color name="colorSelector_black">#4641D9</color>
+
+    <!-- Color Picker -->
+    <color name="colorPicker_1">#B5B2FF</color>
+    <color name="colorPicker_2">#B7F0B1</color>
+    <color name="colorPicker_3">#FFE08C</color>
+    <color name="colorPicker_4">#FFA7A7</color>
+    <color name="colorPicker_5">#E4E4E4</color>
+
+    <!-- Radio -->
+    <color name="colorRadio_selected_rect">#1266FF</color>
+    <color name="colorRadio_selected_line">#0054FF</color>
+    <color name="colorRadio_normal_rect">#FFFFFF</color>
+    <color name="colorRadio_normal_line">#BDBDBD</color>
+
+    <!-- 손없는날 배경색 -->
+    <color name="colorNoGuest_bg_1">#FAF4C0</color>
+    <color name="colorNoGuest_bg_2">#FFD8D8</color>
+    <color name="colorNoGuest_bg_3">#E4F7BA</color>
+    <color name="colorNoGuest_bg_4">#DAD9FF</color>
+    <color name="colorNoGuest_bg_5">#EAEAEA</color>
+
+    <!-- Today - tv_solar Background -->
+    <color name="colorTodayBackground">#DAD9FF</color>
+    <color name="colorTodayBackgroundBlack">#747474</color>
+
+    <!-- 위젯 투명도 -->
+    <color name="colorWhite_100">#FFFFFFFF</color>
+    <color name="colorWhite_90">#E6FFFFFF</color>
+    <color name="colorWhite_80">#CCFFFFFF</color>
+    <color name="colorWhite_70">#B3FFFFFF</color>
+    <color name="colorWhite_60">#99FFFFFF</color>
+    <color name="colorWhite_50">#80FFFFFF</color>
+    <color name="colorWhite_40">#66FFFFFF</color>
+    <color name="colorWhite_30">#4DFFFFFF</color>
+    <color name="colorWhite_20">#33FFFFFF</color>
+    <color name="colorWhite_10">#1AFFFFFF</color>
+    <color name="colorWhite_00">#00FFFFFF</color>
+    <color name="colorBlack_100">#FF000000</color>
+    <color name="colorBlack_90">#E6000000</color>
+    <color name="colorBlack_80">#CC000000</color>
+    <color name="colorBlack_70">#B3000000</color>
+    <color name="colorBlack_60">#99000000</color>
+    <color name="colorBlack_50">#80000000</color>
+    <color name="colorBlack_40">#66000000</color>
+    <color name="colorBlack_30">#4D000000</color>
+    <color name="colorBlack_20">#33000000</color>
+    <color name="colorBlack_10">#1A000000</color>
+    <color name="colorBlack_00">#00000000</color>
+</resources>
